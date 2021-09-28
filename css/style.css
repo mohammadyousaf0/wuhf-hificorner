@@ -15,7 +15,8 @@ footer section,
 .infoFooter,
 .SocialIconsFooter,
 .SocialmediaFooter,
-.brandsMain .introBrands {
+.brandsMain .introBrands,
+#shopfront header nav div {
   display: flex;
 }
 
@@ -411,4 +412,13 @@ header .nav1_brands {
 #shopMain section :nth-child(15),
 #shopMain section :nth-child(16) {
   margin-top: -72px;
+}
+
+#shopfront header nav input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#shopfront header nav div i {
+  margin-right: 10px;
 }

@@ -1,0 +1,414 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ALT FLEX */
+.nav1,
+.nav1_brands,
+.nav1 .subBtn,
+.parentBrandbox,
+.nav2 ul,
+.icons,
+footer section,
+.infoFooter,
+.SocialIconsFooter,
+.SocialmediaFooter,
+.brandsMain .introBrands {
+  display: flex;
+}
+
+body {
+  font-family: "Museo Sans Rounded 300";
+  font-weight: normal;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+
+header {
+  background-image: url(https://i.ibb.co/RDy5TZF/cropped.png);
+}
+
+header .nav2 ul .active {
+  color: goldenrod;
+}
+
+header .nav1 {
+  height: 40px;
+  background: rgba(0, 0, 0, 0.1);
+  justify-content: right;
+}
+
+header .nav1 i,
+header .nav1_brands i {
+  margin-right: 10px;
+  margin-left: 5px;
+  color: white;
+  align-self: center;
+}
+
+header .nav1 .subBtn {
+  padding: 5px;
+  align-self: center;
+  background-color: blue;
+  color: white;
+}
+
+.subBtn p,
+.subBtn i {
+  font-size: smaller;
+}
+
+.subBtn {
+  margin-right: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+header .nav2 ul li {
+  color: black;
+  list-style: none;
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: small;
+}
+
+header .nav2 ul li a {
+  text-decoration: none;
+  color: white;
+  transition: 1s;
+}
+
+header .nav2 ul li a:hover {
+  color: goldenrod;
+  transition: 1s;
+}
+
+header .nav2 {
+  background-color: black;
+  height: 50px;
+}
+
+header .nav2 ul {
+  justify-content: center;
+  padding-top: 15px;
+}
+
+.textimg {
+  background-color: #a89464;
+  height: 200px;
+}
+
+.textimg h3 {
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  padding-top: 75px;
+  font-weight: lighter;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.productimg {
+  background-color: white;
+  display: grid;
+  height: 390px;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.productimg h4 {
+  color: #a89464;
+  font-weight: lighter;
+}
+
+.productimg img {
+  height: 300px;
+  align-self: center;
+  grid-area: 1 / 1 / 1 / 1;
+}
+
+.productimg h4 {
+  position: relative;
+  bottom: 250px;
+  right: 200px;
+  font-size: 1.7em;
+}
+.productimg :nth-child(3) {
+  grid-area: 2 / 2 / 1 / 2;
+  color: #a89464;
+  font-size: 2em;
+}
+
+.productimg :nth-child(4) {
+  grid-area: 1 / 1 / 1 / 1;
+  color: #a89464;
+  font-size: 2em;
+}
+
+.gridProducts {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 280px;
+  justify-items: center;
+  margin: 0 100px 0 100px;
+}
+
+.gridProducts i {
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 160px;
+  font-size: 5em;
+}
+
+.gridProducts img {
+  height: 250px;
+  width: 360px;
+}
+
+.gridBtns {
+  justify-content: space-around;
+  margin: 10px 100px 10px 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 10px 10px;
+}
+
+.gridBtns button {
+  border: 1px solid white;
+  padding: 5px 10px 5px 10px;
+  background-color: black;
+  color: #a89464;
+  transition: 250ms;
+  margin: 10px 100px 10px 100px;
+}
+
+.gridBtns button:hover {
+  transform: scale(1.1);
+  transition: 250ms;
+}
+
+.gridDesc {
+  justify-content: space-around;
+  margin: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 10px 10px;
+  margin: 10px 100px 0 100px;
+}
+
+.gridDesc p {
+  color: white;
+  margin: 0 50px 0 50px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.blackBg {
+  background-color: black;
+}
+
+footer {
+  background-color: #a89464;
+}
+
+footer section {
+  padding: 10px;
+  justify-content: space-between;
+}
+
+footer i {
+  color: white;
+}
+
+.infoFooter .shopInfoFooter {
+  font-size: 0.5em;
+  padding-left: 20px;
+  font-family: "Museo Sans Rounded 700";
+  font-weight: normal;
+  margin-right: 30px;
+}
+
+.infoFooter .linkFooter span,
+.infoFooter .linkFooter a {
+  color: white;
+  font-size: 0.8em;
+}
+
+.SocialIconsFooter {
+  align-self: center;
+}
+
+.SocialIconsFooter .paymentIconsFooter {
+  margin-right: 70px;
+}
+
+.SocialIconsFooter .paymentIconsFooter i {
+  font-size: 1.2em;
+}
+
+.SocialIconsFooter .SocialmediaFooter i {
+  margin-right: 15px;
+  font-size: small;
+  border: 1px solid white;
+  border-radius: 100%;
+  padding: 5px;
+}
+
+/* brands site */
+
+header .nav1_brands {
+  height: 40px;
+  background: black;
+  justify-content: right;
+  border-bottom: 1px solid grey;
+}
+
+.brandsMain {
+  max-height: 855px;
+}
+
+.brandsMain img {
+  width: 100%;
+}
+
+.brandsMain .introBrands {
+  justify-content: space-around;
+  position: relative;
+  align-items: center;
+  bottom: 750px;
+}
+
+.brandsMain .introBrands img {
+  width: 200px;
+  height: 200px;
+}
+
+.brandsMain .introBrands h1 {
+  color: white;
+  font-weight: lighter;
+}
+
+.parentBrandbox {
+  border: 10px solid white;
+  max-width: 75%;
+  position: relative;
+  bottom: 576px;
+  margin: 0 auto;
+}
+
+.childBrandBox1 {
+  min-width: 50%;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(0, 0, 0, 1) 50%,
+    rgba(61, 71, 73, 1) 100%
+  );
+}
+
+.childBrandBox2 {
+  background-image: url(https://i.ibb.co/tMhQDc1/speaker.jpg);
+}
+
+.childBrandBox1,
+.childBrandBox2 {
+  padding: 15px;
+}
+
+.childBrandBox2 p {
+  color: white;
+  font-weight: lighter;
+}
+
+.childBrandBox2 h2 {
+  font-weight: lighter;
+}
+
+.childBrandBox1 p,
+.childBrandBox2 h2,
+.childBrandBox2 a {
+  color: #a89464;
+  margin-bottom: 10px;
+}
+
+/* shop site */
+
+#shopMain {
+  background-color: black;
+  max-height: 597px;
+}
+
+#shopMain section {
+  max-width: 700px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  gap: 0 0;
+}
+
+#shopmain figure img {
+  width: 300px;
+  height: 150px;
+}
+
+#shopMain figure figcaption {
+  position: relative;
+  bottom: 80px;
+  text-align: center;
+}
+#shopMain a {
+  color: white;
+  font-size: 1.2em;
+  text-shadow: 2px 2px black;
+}
+
+#shopMain section div {
+  background-color: #a89464;
+  max-height: 150px;
+}
+
+#shopMain :nth-child(16) a {
+  text-shadow: none;
+  text-decoration: none;
+  padding: 12px;
+  margin-top: 60px;
+  font-size: 1.2em;
+  background-color: rgb(155, 118, 24);
+  border: none;
+  color: white;
+  font-family: "Museo Sans Rounded 700";
+  font-weight: normal;
+}
+
+#shopMain section :nth-child(5),
+#shopMain section :nth-child(6),
+#shopMain section :nth-child(7),
+#shopMain section :nth-child(8) {
+  margin-top: -23px;
+}
+
+#shopMain section :nth-child(9),
+#shopMain section :nth-child(10),
+#shopMain section :nth-child(11),
+#shopMain section :nth-child(12) {
+  margin-top: -48px;
+}
+
+#shopMain section :nth-child(13),
+#shopMain section :nth-child(14),
+#shopMain section :nth-child(15),
+#shopMain section :nth-child(16) {
+  margin-top: -72px;
+}

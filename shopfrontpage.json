@@ -1,0 +1,103 @@
+{
+    "shopfrontpage": [
+      {
+        "id": 1,
+        "img": "design/img/shop/shopbybrand.jpg",
+        "alt": "shopbybrand",
+        "text": "SHOP BY BRAND"
+      },
+  
+      {
+        "id": 2,
+        "img": "design/img/shop/amplifier.jpg",
+        "alt": "amplifier",
+        "text": "AMPLIFIERS"
+      },
+      {
+        "id": 3,
+        "img": "design/img/shop/speakers.jpg",
+        "alt": "speakers",
+        "text": "SPEAKERS"
+      },
+      {
+        "id": 4,
+        "img": "design/img/shop/turntables.jpg",
+        "alt": "turntables",
+        "text": "TURNTABLES"
+      },
+      {
+        "id": 5,
+        "img": "design/img/shop/cdplayers.jpg",
+        "alt": "cdplayers",
+        "text": "CD PLAYERS"
+      },
+      {
+        "id": 6,
+        "img": "design/img/shop/streamers.jpg",
+        "alt": "streamers",
+        "text": "STREAMERS"
+      },
+  
+      {
+        "id": 7,
+        "img": "design/img/shop/cables.jpg",
+        "alt": "cables",
+        "text": "CABLES"
+      },
+      {
+        "id": 8,
+        "img": "design/img/shop/shopbybrand.jpg",
+        "alt": "furniture",
+        "text": "FURNITRUE"
+      },
+      {
+        "id": 9,
+        "img": "design/img/shop/headphones.jpg",
+        "alt": "headphones",
+        "text": "HEADPHONES"
+      },
+      {
+        "id": 10,
+        "img": "design/img/shop/homecinema.jpg",
+        "alt": "home cinema",
+        "text": "HOME CINEMA"
+      },
+      {
+        "id": 11,
+        "img": "design/img/shop/outlet.jpg",
+        "alt": "outlet",
+        "text": "OUTLET - SAVE UP TO 50%"
+      },
+  
+      {
+        "id": 12,
+        "img": "design/img/shop/ebayshop.jpg",
+        "alt": "ebayshop",
+        "text": "EBAY SHOP"
+      },
+      {
+        "id": 13,
+        "img": "design/img/shop/ceilingspeakers.jpg",
+        "alt": "ceilingspeakers",
+        "text": "CEILING SPEAKERS"
+      },
+      {
+        "id": 14,
+        "img": "design/img/shop/tvs.jpg",
+        "alt": "tvs",
+        "text": "TVS"
+      },
+      {
+        "id": 15,
+        "img": "design/img/shop/vinyllps.jpg",
+        "alt": "vinyl lps",
+        "text": "VINYL LPS"
+      },
+      {
+        "id": 16,
+        "img": "design/img/shop/bgcolor.jpeg",
+        "alt": "background color",
+        "text": "SHOP NOW"
+      }
+    ]
+  }

@@ -16,9 +16,20 @@ footer section,
 .SocialIconsFooter,
 .SocialmediaFooter,
 .brandsMain .introBrands,
-#shopfront header nav div {
+#shopfront header nav div,
+.sideMenu1,
+.sideMenu2 {
   display: flex;
 }
+
+/* alt font family bold */
+.infoFooter .shopInfoFooter,
+#shopMain :nth-child(16) a,
+.sideMenu1 a  {
+  font-family: "Museo Sans Rounded 700";
+  font-weight: normal;
+}
+
 
 body {
   font-family: "Museo Sans Rounded 300";
@@ -234,8 +245,6 @@ footer i {
 .infoFooter .shopInfoFooter {
   font-size: 0.5em;
   padding-left: 20px;
-  font-family: "Museo Sans Rounded 700";
-  font-weight: normal;
   margin-right: 30px;
 }
 
@@ -389,8 +398,6 @@ header .nav1_brands {
   background-color: rgb(155, 118, 24);
   border: none;
   color: white;
-  font-family: "Museo Sans Rounded 700";
-  font-weight: normal;
 }
 
 #shopMain section :nth-child(5),
@@ -421,4 +428,49 @@ header .nav1_brands {
 
 #shopfront header nav div i {
   margin-right: 10px;
+}
+
+/* shopcategory page */
+
+#mainShopcategory section .topofMenus {
+  font-size: 0.8em;
+  margin: 20px;
+}
+
+.topofMenus a {
+  color: #a89464;
+  text-decoration: none;
+}
+
+.sideMenu1,
+.sideMenu2 {
+  background-color: gainsboro;
+  flex-direction: column;
+  margin: 20px;
+  padding: 20px;
+  width: 20%;
+}
+
+.sideMenu1 a {
+  margin: 5px 0 5px 0;
+  color: #a89464;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.sideMenu2 a {
+  margin: 5px 0 5px 0;
+  color: #a89464;
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 0.9em;
+}
+
+.sideMenu2 p {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.sideMenu2 h4 {
+  color: #a89464;
 }

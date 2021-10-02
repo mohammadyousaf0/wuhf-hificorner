@@ -18,18 +18,27 @@ footer section,
 .brandsMain .introBrands,
 #shopfront header nav div,
 .sideMenu1,
-.sideMenu2 {
+.sideMenu2,
+.flexMenus,
+.manufacturer,
+.divforpage,
+.itemsAmout {
   display: flex;
 }
 
 /* alt font family bold */
 .infoFooter .shopInfoFooter,
 #shopMain :nth-child(16) a,
-.sideMenu1 a  {
+.sideMenu1 a,
+.sideMenu2 h4,
+.sideMenu2 p,
+.manufacturer p,
+.manufacturer a,
+.topofPage p,
+.topofPage label {
   font-family: "Museo Sans Rounded 700";
   font-weight: normal;
 }
-
 
 body {
   font-family: "Museo Sans Rounded 300";
@@ -57,11 +66,16 @@ header .nav1 {
 }
 
 header .nav1 i,
-header .nav1_brands i {
+header .nav1_brands i,
+header .nav1_brands p {
   margin-right: 10px;
   margin-left: 5px;
   color: white;
   align-self: center;
+}
+
+header .nav1_brands p {
+  font-size: smaller;
 }
 
 header .nav1 .subBtn {
@@ -424,6 +438,7 @@ header .nav1_brands {
 #shopfront header nav input {
   margin-top: 10px;
   margin-bottom: 10px;
+  width: 300px;
 }
 
 #shopfront header nav div i {
@@ -448,7 +463,6 @@ header .nav1_brands {
   flex-direction: column;
   margin: 20px;
   padding: 20px;
-  width: 20%;
 }
 
 .sideMenu1 a {
@@ -473,4 +487,51 @@ header .nav1_brands {
 
 .sideMenu2 h4 {
   color: #a89464;
+}
+
+.topofPage .divforpage {
+  background-color: gainsboro;
+  height: 100px;
+  width: 900px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.manufacturer {
+  flex-direction: column;
+}
+
+.manufacturer p {
+  color: #a89464;
+}
+
+.manufacturer a {
+  margin: 5px 0 5px 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.manufacturer :last-child {
+  font-size: smaller;
+  color: #a89464;
+  margin: 0;
+}
+
+.sortbyFlex {
+  margin: 20px;
+}
+
+.viewasFlex {
+  margin-top: 50px;
+}
+
+.itemsAmout {
+  margin-top: 20px;
+  margin-bottom: 60px;
+  margin-left: 460px;
+}
+
+.itemsAmout p,
+.itemsAmout label {
+  margin-right: 10px;
 }

@@ -22,7 +22,8 @@ footer section,
 .flexMenus,
 .manufacturer,
 .divforpage,
-.itemsAmout {
+.itemsAmout,
+.viewasFlex {
   display: flex;
 }
 
@@ -521,14 +522,27 @@ header .nav1_brands {
   margin: 20px;
 }
 
+.sortbyFlex i {
+  margin-left: 5px;
+}
+
 .viewasFlex {
   margin-top: 50px;
+}
+
+.viewasFlex p {
+  margin-right: 5px;
+}
+
+.viewasFlex i {
+  margin: 0 10px 0 10px;
+  color: #a89464;
 }
 
 .itemsAmout {
   margin-top: 20px;
   margin-bottom: 60px;
-  margin-left: 460px;
+  margin-left: 370px;
 }
 
 .itemsAmout p,

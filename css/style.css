@@ -23,7 +23,8 @@ footer section,
 .manufacturer,
 .divforpage,
 .itemsAmout,
-.viewasFlex {
+.viewasFlex,
+.flexPrices {
   display: flex;
 }
 
@@ -36,7 +37,8 @@ footer section,
 .manufacturer p,
 .manufacturer a,
 .topofPage p,
-.topofPage label {
+.topofPage label,
+.theProduct button {
   font-family: "Museo Sans Rounded 700";
   font-weight: normal;
 }
@@ -548,4 +550,55 @@ header .nav1_brands {
 .itemsAmout p,
 .itemsAmout label {
   margin-right: 10px;
+}
+
+#products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+  gap: 10px 10px; 
+}
+
+.theProduct {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.theProduct img {
+  height: 80px;
+  width: 200px;
+}
+
+.theProduct h4 {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.flexPrices {
+  margin-top: 15px;
+  margin-left: 30px;
+}
+
+.flexPrices p {
+  font-weight: lighter;
+}
+
+.flexPrices :first-child {
+  margin-right: 10px;
+  text-decoration: line-through;
+  color: gray;
+}
+
+.flexPrices :last-child {
+  color: #a89464;
+}
+
+.theProduct button {
+  margin-top: 30px;
+  margin-left: 45px;
+  padding: 8px;
+  color: white;
+  border: none;
+  background-color: #a89464;
+  
 }

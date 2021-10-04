@@ -5,147 +5,365 @@
         "category": "cdafspillere",
         "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
         "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
+        "titel": "CREEK CLASSIC CD",
         "discount": "£429.00",
-        "price": "£329.00"
+        "price": "£329.00",
+        "button": "<button>ADD TO CART</button>"
       },
   
       {
         "id": 2,
         "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
+        "img": "produktbilleder/cd_afspillere/creek_Destiny_CD.jpg",
         "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "titel": "CREEK DESTINY CD",
+        "discount": "",
+        "price": "£399.95",
+        "button": ""
       },
       {
         "id": 3,
         "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
+        "img": "produktbilleder/cd_afspillere/creek_evo_cd.jpg",
         "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "titel": "CREEK EVO CD",
+        "discount": "£469.00",
+        "price": "£429.00",
+        "button": "<button>ADD TO CART</button>"
       },
       {
         "id": 4,
         "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
+        "img": "produktbilleder/cd_afspillere/Exp_2010S_CD.gif",
         "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "titel": "EXP 2010S CD",
+        "discount": "",
+        "price": "£579.00",
+        "button": "<button>ADD TO CART</button>"
       },
       {
         "id": 5,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "dvdafspillere",
+        "img": "produktbilleder/dvdafspillere/creek_classic.jpg",
+        "alt": "dvd_afspillere",
+        "titel": "CREEK CLASSIC DVD",
+        "price": "£599.00",
+        "discount": "",
+        "button": "<button>ADD TO CART</button>"
       },
       {
         "id": 6,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "dvdafspillere",
+        "img": "produktbilleder/dvdafspillere/exposure_2010S.jpg",
+        "alt": "dvd_afspillere",
+        "titel": "EXPOSURE 2010S DVD",
+        "discount": "",
+        "price": "£599.00",
+        "button": "<button>ADD TO CART</button>"
       },
   
       {
         "id": 7,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "dvdafspillere",
+        "img": "produktbilleder/dvdafspillere/parasound_d200.jpg",
+        "alt": "dvd_afspillere",
+        "titel": "PARASOUND D200 DVD",
+        "discount": "£799.00",
+        "price": "£699.00",
+        "button": "<button>ADD TO CART</button>"
       },
       {
         "id": 8,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "dvdafspillere",
+        "img": "produktbilleder/dvdafspillere/parasound_halod3.jpg",
+        "alt": "dvd_afspillere",
+        "titel": "PARASOUND HALOD3 DVD",
+        "price": "£699.00",
+        "button": "<button>ADD TO CART</button>"
       },
       {
         "id": 9,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "effektforstaerkere",
+        "img": "produktbilleder/effektforstaerkere/manley_mahi.jpg",
+        "alt": "effektforstaerkere",
+        "titel": "MANLEY MAHI POWER AMPLIFIER",
+        "discount": "",
+        "price": "£699.00",
+        "button": ""
       },
       {
         "id": 10,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "effektforstaerkere",
+        "img": "produktbilleder/effektforstaerkere/manley_neoclassic300b.jpg",
+        "alt": "effektforstaerkere",
+        "titel": "MANLEY NEOCLASSIC POWER AMPLIFIER",
+        "discount": "",
+        "price": "£799.00",
+        "button": ""
       },
       {
         "id": 11,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "effektforstaerkere",
+        "img": "produktbilleder/effektforstaerkere/manley_snapper.jpg",
+        "alt": "effektforstaerkere",
+        "titel": "MANLEY SNAPPER POWER AMPLIFIER",
+        "discount": "",
+        "price": "£800.00",
+        "button": ""
       },
   
       {
         "id": 12,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "effektforstaerkere",
+        "img": "produktbilleder/effektforstaerkere/parasound_haloa23.jpg",
+        "alt": "effektforstaerkere",
+        "titel": "PARASOUND HALOA23 POWER AMPLIFIER",
+        "discount": "",
+        "price": "£845.00",
+        "button": ""
       },
       {
         "id": 13,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "forforstaerkere",
+        "img": "produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
+        "alt": "forforstaerkere",
+        "titel": "CREEK OBH 22 PASSIVE PREAMP PREAMPLIFIER",
+        "discount": "",
+        "price": "£845.00",
+        "button": ""
       },
       {
         "id": 14,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "forforstaerkere",
+        "img": "produktbilleder/forforstaerkere/parasound_classic7100.jpg",
+        "alt": "forforstaerkere",
+        "titel": "PARASOUND CLASSIC7100 PREAMPLIFIER",
+        "discount": "",
+        "price": "£899.00",
+        "button": ""
       },
       {
         "id": 15,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
-        "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "category": "forforstaerkere",
+        "img": "produktbilleder/forforstaerkere/parasound_halop3.jpg",
+        "alt": "forforstaerkere",
+        "titel": "PARASOUND HALOP3 PREAMPLIFIER",
+        "discount": "",
+        "price": "£899.95",
+        "button": "<button>ADD TO CART</button>"
       },
       {
         "id": 16,
-        "category": "cdafspillere",
-        "img": "produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-        "alt": "cd_afspillere",
+        "category": "forforstaerkere",
+        "img": "produktbilleder/forforstaerkere/Project_prebox.jpg",
+        "alt": "forforstaerkere",
+        "titel": "PROJECT PREBOX PREAMPLIFIER",
+        "discount": "",
+        "price": "£935.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 17,
+        "category": "hojtalere",
+        "img": "produktbilleder/hojtalere/boesendorfer_vcs_wall.gif",
+        "alt": "hojtalere",
+        "titel": "BOESENDORFER SPEAKER",
+        "discount": "",
+        "price": "£999.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 18,
+        "category": "hojtalere",
+        "img": "produktbilleder/hojtalere/epos_m5.gif",
+        "alt": "EPOS M5 SPEAKER",
         "titel": "SHOP BY BRAND",
-        "discount": "£429.00",
-        "price": "£329.00"
+        "discount": "",
+        "price": "£999.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 19,
+        "category": "hojtalere",
+        "img": "produktbilleder/hojtalere/harbeth_hl7es2.jpg",
+        "alt": "hojtalere",
+        "titel": "HARBETH H17ES2 SPEAKER",
+        "discount": "",
+        "price": "£999.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+  
+      {
+        "id": 20,
+        "category": "hojtalere",
+        "img": "produktbilleder/hojtalere/harbeth_monitor30.jpg",
+        "alt": "hojtalere",
+        "titel": "HARBETH MONITOR30 SPEAKER",
+        "discount": "",
+        "price": "£999.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 21,
+        "category": "hojtalere",
+        "img": "produktbilleder/hojtalere/harbeth_p3es2.jpg",
+        "alt": "hojtalere",
+        "titel": "HARBETH P3ES2 SPEAKER",
+        "discount": "",
+        "price": "£999.95",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 22,
+        "category": "int_forstaerkere",
+        "img": "produktbilleder/int_forstaerkere/creek_a50I.jpg",
+        "alt": "int_forstaerkere",
+        "titel": "CREEK A50I INT AMPLIFIER",
+        "discount": "",
+        "price": "£1,000.00",
+        "button": ""
+      },
+      {
+        "id": 23,
+        "category": "int_forstaerkere",
+        "img": "produktbilleder/int_forstaerkere/creek_classic5350SE.jpg",
+        "alt": "int_forstaerkere",
+        "titel": "CREEK CLASSIC C5350SE INT AMPLIFIER",
+        "discount": "",
+        "price": "£1,029.00",
+        "button": ""
+      },
+      {
+        "id": 24,
+        "category": "int_forstaerkere",
+        "img": "produktbilleder/int_forstaerkere/creek_destinyamp.jpg",
+        "alt": "int_forstaerkere",
+        "titel": "CREEK DESTINYAMP INT AMPLIFIER",
+        "discount": "",
+        "price": "£1,099.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+  
+      {
+        "id": 25,
+        "category": "int_forstaerkere",
+        "img": "produktbilleder/int_forstaerkere/manley_snapper.jpg",
+        "alt": "int_forstaerkere",
+        "titel": "MANLEY SNAPPER INT AMPLIFIER",
+        "discount": "£1,499.00",
+        "price": "£1,149.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 26,
+        "category": "int_forstaerkere",
+        "img": "produktbilleder/int_forstaerkere/Manley_Stingray.jpg",
+        "alt": "int_forstaerkere",
+        "titel": "MANLEY STINGRAY INT AMPLIFIER",
+        "discount": "",
+        "price": "£1,199.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 27,
+        "category": "pladespillere",
+        "img": "produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg",
+        "alt": "pladespillere",
+        "titel": "PROJECT DEBUT 3BL RECORD PLAYER",
+        "discount": "",
+        "price": "£1,200.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 28,
+        "category": "pladespillere",
+        "img": "produktbilleder/pladespillere/Pro_ject_Debut_III_red_1.jpg",
+        "alt": "pladespillere",
+        "titel": "PROJECT DEBUT III RED1 RECORD PLAYER",
+        "discount": "",
+        "price": "£1,250.00",
+        "button": ""
+      },
+      {
+        "id": 29,
+        "category": "pladespillere",
+        "img": "produktbilleder/pladespillere/Pro_ject_Debut_III_yellow_1.jpg",
+        "alt": "pladespillere",
+        "titel": "PROJECT DEBUT III YELLOW1 RECORD PLAYER",
+        "discount": "",
+        "price": "£1,299.95",
+        "button": "<button>ADD TO CART</button>"
+      },
+  
+      {
+        "id": 30,
+        "category": "pladespillere",
+        "img": "produktbilleder/pladespillere/Pro_ject_rpm_5.jpg",
+        "alt": "pladespillere",
+        "titel": "PROJECT RPM5 RECORD PLAYER",
+        "discount": "1,345.00",
+        "price": "£329.00",
+        "button": ""
+      },
+      {
+        "id": 31,
+        "category": "pladespillere",
+        "img": "produktbilleder/pladespillere/Pro_ject_rpm10.jpg",
+        "alt": "pladespillere",
+        "titel": "PROJECT RPM10 RECORD PLAYER",
+        "discount": "",
+        "price": "£1,350.00",
+        "button": ""
+      },
+      {
+        "id": 32,
+        "category": "roer_forstaerkere",
+        "img": "produktbilleder/roer_forstaerkere/jolida_JD102b.jpg",
+        "alt": "roer_forstaerkere",
+        "titel": "JOLIDA JD102B TUBE AMPLIFIER",
+        "discount": "",
+        "price": "£1,495.00",
+        "button": ""
+      },
+      {
+        "id": 33,
+        "category": "roer_forstaerkere",
+        "img": "produktbilleder/roer_forstaerkere/jolida_JD202a.jpg",
+        "alt": "roer_forstaerkere",
+        "titel": "JOLIDA JD202A TUBE AMPLIFIER",
+        "discount": "",
+        "price": "£1,499.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 34,
+        "category": "roer_forstaerkere",
+        "img": "produktbilleder/roer_forstaerkere/jolida_JD300b.jpg",
+        "alt": "roer_forstaerkere",
+        "titel": "JOLIDA JD300B TUBE AMPLIFIER",
+        "discount": "",
+        "price": "£1,499.00",
+        "button": "<button>ADD TO CART</button>"
+      },
+      {
+        "id": 35,
+        "category": "roer_forstaerkere",
+        "img": "produktbilleder/roer_forstaerkere/jolida_JD302b.jpg",
+        "alt": "JOLIDA JD302B TUBE AMPLIFIER",
+        "titel": "SHOP BY BRAND",
+        "discount": "",
+        "price": "£1,500.00",
+        "button": ""
+      },
+      {
+        "id": 36,
+        "category": "roer_forstaerkere",
+        "img": "produktbilleder/roer_forstaerkere/jolida_JD502b.jpg",
+        "alt": "roer_forstaerkere",
+        "titel": "JOLIDA JD 502B",
+        "discount": "",
+        "price": "1,500.00",
+        "button": ""
       }
     ]
   }

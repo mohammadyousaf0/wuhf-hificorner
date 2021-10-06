@@ -7,7 +7,7 @@ fetch("./shopfrontpage.json")
         sectionElement.innerHTML += `
                 <figure>
                     <img src="${categoryNumber.img}" alt="${categoryNumber.alt}">
-                    <figcaption><a href="#">${categoryNumber.text}</a></figcaption>
+                    <figcaption><a href="shopcategorypage.html?id=${categoryNumber.id}">${categoryNumber.text}</a></figcaption>
                 </figure>`
     })
 })

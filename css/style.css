@@ -24,7 +24,13 @@ footer section,
 .divforpage,
 .itemsAmout,
 .viewasFlex,
-.flexPrices {
+.flexPrices,
+#mainsingleproduct section,
+.pricesofProduct,
+.requiredfield,
+.paypalBtn div,
+.listAdditional span,
+.callusDiv {
   display: flex;
 }
 
@@ -38,7 +44,11 @@ footer section,
 .manufacturer a,
 .topofPage p,
 .topofPage label,
-.theProduct button {
+.theProduct button,
+.productImgs p,
+.BtnsFlexed button,
+.checkBox label,
+.addtoCart {
   font-family: "Museo Sans Rounded 700";
   font-weight: normal;
 }
@@ -607,6 +617,221 @@ header .nav1_brands {
   padding: 8px;
   color: white;
   border: none;
+  background-color: #a89464; 
+}
+
+/* single product page */
+
+#mainsingleproduct, #mainsingleproduct section {
+  margin: 20px;
+}
+
+#mainsingleproduct hr {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.productImgs :first-child {
+  width: 600px;
+}
+
+.productImgs {
+  width: 100%;
+}
+
+.rightsideFlex {
+  max-width: 50%;
+}
+
+.productImgs .moreviews {
+  color: #a89464;
+  font-size: 1.3em;
+  margin: 30px 0 30px 0;
+}
+
+.productImgs :nth-child(3) {
+  height: 50px;
+  width: 100px;
+}
+
+.pricesofProduct :first-child{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: #a89464;
+}
+
+.pricesofProduct {
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.pricesofProduct :nth-child(2) {
+  margin-left: 300px;
+  color: gray;
+  text-decoration: line-through;
+}
+
+.pricesofProduct :last-child {
+  font-size: 1.2em;
+  color: #a89464;
+}
+
+.productDescText {
+  margin-bottom: 40px;
+}
+
+.BtnsFlexed button {
+  padding: 10px;
   background-color: #a89464;
-  
+  color: white;
+  border: none;
+}
+
+.requiredfield {
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.requiredfield :first-child{
+  color: #a89464;
+}
+
+.requiredfield span, .requiredfield :last-child {
+  color: red;
+}
+
+.requiredfield span {
+  margin-right: 545px;
+}
+
+.checkBox {
+  background-color: gainsboro;
+  height: 50px;
+  width: 200px;
+}
+
+.checkBox label, .checkBox input {
+  margin: 17px 0 0 15px;
+}
+
+.addtoCart {
+  justify-content: space-around;
+}
+
+.addtoCart :first-child {
+  color: #a89464;
+}
+
+.addtoCart input {
+  height: 30px;
+  width: 30px;
+}
+
+.addtoCart button {
+  padding: 5px 15px 5px 15px;
+  color: white;
+  background-color: #a89464;
+  border: none;
+}
+
+.paymentDiv {
+  margin-top: 20px;
+  background-color: gainsboro;
+  padding: 20px;
+}
+
+.paymentDiv .or {
+  color: #a89464;
+  margin-left: 110px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.paypalBtn button {
+  border: none;
+  border-radius: 30px;
+  background-color: orange;
+  margin-left: 65px;
+}
+
+.safertxt {
+  margin-left: 75px;
+  margin-top: 5px;
+  font-size: 0.6em;
+}
+
+.paypalBtn div {
+  align-items: center;
+  padding: 5px;
+}
+
+.paypalBtn img {
+  height: 30px;
+  width: 60px;
+  margin-right: 10px;
+}
+
+.addDiv h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #a89464;
+}
+
+.listAdditional span ul li {
+  list-style: none;
+}
+
+.listAdditional .firstul, .listAdditional .firstul li, .listAdditional .lastul, .listAdditional .lastul li {
+  border: 1px solid;
+}
+
+.listAdditional .lastul, .listAdditional .lastul li {
+  border-left: none;
+}
+
+.listAdditional .lastul li {
+  border-right: none;
+  width: 500px;
+}
+
+.listAdditional .lastul li, .listAdditional .firstul li {
+  padding: 10px;
+}
+
+.listAdditional .firstul li {
+  background-color:gainsboro;
+}
+
+.listAdditional .lastul :nth-child(2){
+  color: #a89464;
+}
+
+.DescDiv {
+  margin-top: 300px;
+}
+
+.DescDiv h2 {
+  color: #a89464;
+  margin-bottom: 10px;
+}
+
+.callusDiv {
+  background-color: black;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 100%;
+  height: 50px;
+  align-items: center;
+}
+
+.callusDiv i {
+  color: #a89464;
+  margin-right: 5px;
+  margin-left: 40%;
+}
+
+.callusDiv p {
+  color: #a89464;
+  font-size: 1.3em;
 }
